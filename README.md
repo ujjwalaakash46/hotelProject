@@ -3,9 +3,7 @@
 
 Project to manage Hotels, Users and their reviews.
 (Added Sample Hotels and Users).
-
-filter hotels by any field or add review to a hotel.
-and with pagination on list APIs
+Filter hotels by any field or add review to a hotel and with pagination on list APIs
  
 Using H2 Database for the easiness to test the project.
 
