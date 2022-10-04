@@ -2,7 +2,7 @@
 # Hotel Project
 
 Project to manage Hotels, Users and their reviews.
-(Added Sample Hotel and Users).
+(Added Sample Hotels and Users).
 
 filter hotels by any field or add review to a hotel.
 and with pagination on list APIs
